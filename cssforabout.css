@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/024/538/828/original/pixel-jeff-clipc-s.gif?1582740521);
+}
+
+
+h1
+{
+    color:#17252A;
+    padding: 10px;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+      
+}
+p
+{
+    color:white;
+    padding: 10px;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+     
+}
+#resindialadd
+{
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:left;
+     
+}
